@@ -1,0 +1,17 @@
+{
+  "name": "@types/everapi__currencyapi-js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/everapi__currencyapi-js",
+  "description": "TypeScript definitions for @everapi/currencyapi-js",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "ABBAL Sébastien",
+      "url": "https://github.com/sebastien-abbal",
+      "githubUsername": "sebastien-abbal"
+    }
+  ],
+  "main": "",
+  "types": "index.d.ts",
+  "scripts": {}
+}
